@@ -1,2 +1,2 @@
 # html-forms
-Just trying out some of what I've learned so far. 
+Just trying out some of what I've learned about HTML forms. 
