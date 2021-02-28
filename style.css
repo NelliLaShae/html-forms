@@ -1,0 +1,111 @@
+body {
+  margin: 10px;
+  background-color: #9b9;
+}
+main {
+  color: #000;
+  margin: 5px;
+}
+header {
+  background-color:#9b9;
+  color: #000;
+  font-family: cursive;
+  font-size: 14px;
+}
+h1 {
+  text-align: center;
+  font-size:35px;
+}
+
+h2, h3{
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: #333;
+ /* margin-bottom: 20px*/
+}
+
+h2 strong {
+  color: #009;
+}
+
+h3 {
+  text-align: center;
+  font-size: 25px;
+}
+
+h4 {
+  font-size: 20px;
+}
+
+h1 {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: #009;
+ /* margin-bottom: 10px;*/
+}
+
+p {
+  text-align: center;
+  font-size: 16px;
+  color: #333;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  margin-bottom: 20px;
+}
+
+p[class=form] {
+  text-align: start;
+}
+
+form label {
+  display: block;
+  font-size: 16px;
+  margin-bottom: 5px;
+  color: #000;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+form input[type=text],
+form textarea  {
+  color: #000;
+  font-size: 16px;
+  margin-bottom: 20px;
+  width: 100%;
+}
+
+form textarea {
+  height: 75px;
+}
+
+form input[type="radio"] {
+  font-size: 20px;
+}
+
+form input[type="radio"] + label {
+  display: inline;
+  color:#000;
+  font-size: 16px;
+}
+form input[type="checkbox"] {
+  font-size: 20px;
+}
+
+form input[type="checkbox"] + label {
+  display: inline;
+  color:#000;
+  font-size: 16px;
+}
+
+hr {
+  height: 2px;
+  background-color: #000;
+  border-color: #6af;
+  border-style: inset;
+  border-size: 1px;
+}
+
+div[class=hero]{
+  background-color: #fff;
+  padding: 20px;
+  border-style: inset;
+  border-color: #6af;
+}
